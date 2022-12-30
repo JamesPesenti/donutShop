@@ -1,0 +1,8 @@
+{
+  "name": "donutShop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JamesPesenti/donutShop.git",
+  "author": "<you@example.com>",
+  "license": "MIT"
+}

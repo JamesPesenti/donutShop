@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-donutshop-dev-130451-authRole",
+      "UnauthRoleArn": "arn:aws:iam::305340051824:role/amplify-donutshop-dev-130451-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::305340051824:role/amplify-donutshop-dev-130451-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-donutshop-dev-130451-deployment",
+      "UnauthRoleName": "amplify-donutshop-dev-130451-unauthRole",
+      "StackName": "amplify-donutshop-dev-130451",
+      "StackId": "arn:aws:cloudformation:us-east-1:305340051824:stack/amplify-donutshop-dev-130451/2029db80-86da-11ed-8e56-129c5a3cfaa3",
+      "AmplifyAppId": "d27jwl6uf3xzb4"
+    },
+    "categories": {
+      "auth": {
+        "donutshop5615fa62": {}
+      },
+      "api": {
+        "donutShop": {}
+      }
+    }
+  }
+}
